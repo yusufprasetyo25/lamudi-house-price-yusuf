@@ -1,0 +1,1 @@
+should not track bin/ folder by including it in .gitignore file
