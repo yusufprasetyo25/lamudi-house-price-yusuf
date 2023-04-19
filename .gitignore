@@ -162,6 +162,5 @@ cython_debug/
 #.idea/
 
 # Yusuf addition
-# bin/ and share/ folder should not be tracked
 bin/
 share/
