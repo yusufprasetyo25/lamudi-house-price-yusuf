@@ -1,5 +1,7 @@
 # Jakarta House Price Prediction from [Lamudi](https://www.lamudi.co.id/) Price
 
+## [Click here to use the application!](https://yusufprasetyo25-lamudi-house-price-yusuf-app-cxdryl.streamlit.app/)
+
 **TL;DR**
 
 I demonstrated how to create an web application to predict house prices in Jakarta using only quantitative measurements (e.g. land sizes, building sizes, street location) that will prevent any bias and easily usable by everyone. I created this project to highlight how we can:
